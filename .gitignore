@@ -15,6 +15,7 @@ Icon?
 
 # Idea stuff
 .idea/**
+.todo/**
 
 # Zap output
 report*.html
